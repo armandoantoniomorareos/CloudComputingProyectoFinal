@@ -1,0 +1,240 @@
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/appsettings.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/SWTallerMecanico.exe
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/SWTallerMecanico.deps.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/SWTallerMecanico.runtimeconfig.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/SWTallerMecanico.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/ref/SWTallerMecanico.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/SWTallerMecanico.pdb
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Zstandard.Net.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Renci.SshNet.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/SshNet.Security.Cryptography.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.csproj.AssemblyReference.cache
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.AssemblyInfoInputs.cache
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.AssemblyInfo.cs
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.csproj.CoreCompileInputs.cache
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/scopedcss/bundle/SWTallerMecanico.styles.css
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.csproj.CopyComplete
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/ref/SWTallerMecanico.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.pdb
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.genruntimeconfig.cache
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/web.config
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/appsettings.Development.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/appsettings.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/SWTallerMecanico.deps.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/SWTallerMecanico.runtimeconfig.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/webServiceTaller/web.config
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/webServiceTaller/appsettings.Development.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/webServiceTaller/appsettings.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/webServiceTaller/SWTallerMecanico.deps.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/ProyectoNacho/Final/Servicio web/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/webServiceTaller/SWTallerMecanico.runtimeconfig.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/web.config
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/webServiceTaller/web.config
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/appsettings.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/appsettings.Development.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/appsettings.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/SWTallerMecanico.deps.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/SWTallerMecanico.runtimeconfig.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/webServiceTaller/appsettings.Development.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/webServiceTaller/appsettings.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/webServiceTaller/SWTallerMecanico.deps.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/webServiceTaller/webServiceTaller/SWTallerMecanico.runtimeconfig.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/SWTallerMecanico.exe
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/SWTallerMecanico.deps.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/SWTallerMecanico.runtimeconfig.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/SWTallerMecanico.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/ref/SWTallerMecanico.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/SWTallerMecanico.pdb
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Zstandard.Net.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/MySql.Data.EntityFrameworkCore.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Renci.SshNet.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/SshNet.Security.Cryptography.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.csproj.AssemblyReference.cache
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.AssemblyInfoInputs.cache
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.AssemblyInfo.cs
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.csproj.CoreCompileInputs.cache
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/scopedcss/bundle/SWTallerMecanico.styles.css
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.csproj.CopyComplete
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/ref/SWTallerMecanico.dll
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.pdb
+C:/Users/ArmandoAntonio/Desktop/Escritorio-14-marzo-2021/Maestria/Cloud/proyectofinal/SWTallerMecanico/obj/Debug/net6.0/SWTallerMecanico.genruntimeconfig.cache
+/api/bin/Debug/net6.0/webServiceTaller/web.config
+/api/bin/Debug/net6.0/webServiceTaller/webServiceTaller/web.config
+/api/bin/Debug/net6.0/appsettings.Development.json
+/api/bin/Debug/net6.0/appsettings.json
+/api/bin/Debug/net6.0/webServiceTaller/appsettings.Development.json
+/api/bin/Debug/net6.0/webServiceTaller/appsettings.json
+/api/bin/Debug/net6.0/webServiceTaller/SWTallerMecanico.deps.json
+/api/bin/Debug/net6.0/webServiceTaller/SWTallerMecanico.runtimeconfig.json
+/api/bin/Debug/net6.0/webServiceTaller/webServiceTaller/appsettings.Development.json
+/api/bin/Debug/net6.0/webServiceTaller/webServiceTaller/appsettings.json
+/api/bin/Debug/net6.0/webServiceTaller/webServiceTaller/SWTallerMecanico.deps.json
+/api/bin/Debug/net6.0/webServiceTaller/webServiceTaller/SWTallerMecanico.runtimeconfig.json
+/api/bin/Debug/net6.0/SWTallerMecanico
+/api/bin/Debug/net6.0/SWTallerMecanico.deps.json
+/api/bin/Debug/net6.0/SWTallerMecanico.runtimeconfig.json
+/api/bin/Debug/net6.0/SWTallerMecanico.dll
+/api/bin/Debug/net6.0/SWTallerMecanico.pdb
+/api/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/api/bin/Debug/net6.0/Google.Protobuf.dll
+/api/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/api/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/api/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/api/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/api/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/api/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/api/bin/Debug/net6.0/MySql.Data.dll
+/api/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+/api/bin/Debug/net6.0/Zstandard.Net.dll
+/api/bin/Debug/net6.0/MySql.Data.EntityFrameworkCore.dll
+/api/bin/Debug/net6.0/Renci.SshNet.dll
+/api/bin/Debug/net6.0/SshNet.Security.Cryptography.dll
+/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/api/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/api/bin/Debug/net6.0/System.Drawing.Common.dll
+/api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/api/bin/Debug/net6.0/System.Runtime.Caching.dll
+/api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/api/bin/Debug/net6.0/System.Security.Permissions.dll
+/api/bin/Debug/net6.0/System.Windows.Extensions.dll
+/api/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
+/api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/api/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/api/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/api/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/api/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/api/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/api/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/api/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/api/obj/Debug/net6.0/SWTallerMecanico.csproj.AssemblyReference.cache
+/api/obj/Debug/net6.0/SWTallerMecanico.GeneratedMSBuildEditorConfig.editorconfig
+/api/obj/Debug/net6.0/SWTallerMecanico.AssemblyInfoInputs.cache
+/api/obj/Debug/net6.0/SWTallerMecanico.AssemblyInfo.cs
+/api/obj/Debug/net6.0/SWTallerMecanico.csproj.CoreCompileInputs.cache
+/api/obj/Debug/net6.0/SWTallerMecanico.MvcApplicationPartsAssemblyInfo.cs
+/api/obj/Debug/net6.0/SWTallerMecanico.MvcApplicationPartsAssemblyInfo.cache
+/api/obj/Debug/net6.0/staticwebassets.build.json
+/api/obj/Debug/net6.0/staticwebassets.development.json
+/api/obj/Debug/net6.0/scopedcss/bundle/SWTallerMecanico.styles.css
+/api/obj/Debug/net6.0/SWTallerMecanico.csproj.CopyComplete
+/api/obj/Debug/net6.0/SWTallerMecanico.dll
+/api/obj/Debug/net6.0/refint/SWTallerMecanico.dll
+/api/obj/Debug/net6.0/SWTallerMecanico.pdb
+/api/obj/Debug/net6.0/SWTallerMecanico.genruntimeconfig.cache
+/api/obj/Debug/net6.0/ref/SWTallerMecanico.dll

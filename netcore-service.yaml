@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: netcore
+  labels:
+    app: netcore
+    tier: backend
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 8080
+    targetPort: 32561
+  selector:
+    app: netcore
+    tier: backend

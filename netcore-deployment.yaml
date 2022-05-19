@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: netcore-leader
+  labels:
+    app: netcore
+    role: leader
+    tier: backend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: netcore
+  template:
+    metadata:
+      labels:
+        app: netcore
+        role: leader
+        tier: backend
+    spec:
+      containers:
+      - name: netcore
+        image: "armandomora/netcorev3:netcorev3"
+        ports:
+        - containerPort: 8080
